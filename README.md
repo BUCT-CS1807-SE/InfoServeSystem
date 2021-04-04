@@ -39,7 +39,7 @@ data内相应参数为返回数据，命名格式为小写加'-'。
 JSON：
 ```json
 {
-  "request-uuid":用户凭证,
+  "request-uuid":"用户凭证",
   "data":{
     "arr-param":[],
     "obj-param":{},
